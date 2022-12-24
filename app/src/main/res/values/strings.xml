@@ -1,0 +1,6 @@
+<resources>
+    <string name="app_name">MusicMp3</string>
+    <string name="welcome_to_imusic">Welcome To iMusic</string>
+    <string name="play">PLAY</string>
+    <string name="pause">PAUSE</string>
+</resources>
